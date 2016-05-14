@@ -1,0 +1,3 @@
+[submodule "mountebank-UI"]
+	path = mountebank-UI
+	url = https://github.com/jazzarati/mountebank-UI.git
