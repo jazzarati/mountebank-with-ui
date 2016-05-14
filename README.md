@@ -1,5 +1,4 @@
 # Mountebank with UI
-----
 
 #### All in one webserver (with UI) for managing a local [mountebank](http://www.mbtest.org/).
 
